@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nlf/git-validate.git"
+    "url": ""
   },
   "keywords": [
     "postmerge",
@@ -15,16 +15,7 @@
     "git",
     "hook"
   ],
-  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nlf/git-validate/issues"
-  },
-  "homepage": "https://github.com/nlf/git-validate",
-  "devDependencies": {
-    "code": "1.x.x",
-    "lab": "5.x.x",
-    "mkdirp": "^0.5.0",
-    "rimraf": "2.x.x"
-  }
+  "author": "",
+  "license": "",
+  "homepage": ""
 }

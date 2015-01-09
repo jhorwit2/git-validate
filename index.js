@@ -1,3 +1,2 @@
-var Utils = require('./lib/utils');
 
-Utils.installHooks();
+require('./lib/utils').installPostMergeHook();
