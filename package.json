@@ -1,21 +1,17 @@
 {
-  "name": "git-validate",
-  "version": "0.1.1",
+  "name": "postmerge-package-install",
+  "version": "0.1.0",
   "description": "the extensible core of precommit-hook",
   "main": "index.js",
-  "bin": {
-    "validate": "bin/validate"
-  },
   "scripts": {
-    "test": "lab -L -a code -t 100"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/nlf/git-validate.git"
   },
   "keywords": [
-    "precommit",
-    "pre-commit",
+    "postmerge",
+    "post-merge",
     "git",
     "hook"
   ],

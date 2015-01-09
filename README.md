@@ -1,5 +1,9 @@
 #git-validate
 
+
+# This repository is forked. You can view the original repository and owner in the package.json file
+
+
 This is a super simple framework to facilitate creating your own modules similar to [precommit-hook](https://github.com/nlf/precommit-hook).
 
 ## Usage
