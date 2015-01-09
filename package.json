@@ -15,7 +15,6 @@
     "git",
     "hook"
   ],
-  "dependencies": { "lodash" },
   "author": "",
   "license": "",
   "homepage": ""
